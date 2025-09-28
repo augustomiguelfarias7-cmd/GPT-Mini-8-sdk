@@ -16,10 +16,7 @@ Instale diretamente do repositório:
 ```bash
 pip install git+https://github.com/augustomiguelfarias7-cmd/gpt_mini8_sdk.git
 
-As dependências principais são instaladas automaticamente.
-
-
----
+_____________________________________
 
 Usando o servidor Flask local
 
